@@ -81,10 +81,17 @@ If you have any questions, or need help, please check the following resources fi
 All our projects are open-source and available under their respective licenses. 
 Please review the specific license associated with each project in its repository.
 
+## Acknowledgments
 
+This software was developed at the Chair of Software Technology at Technische Universität Dresden. 
+The development was funded by the German Research Foundation (DFG, Deutsche Forschungsgemeinschaft) as part of Germany's Excellence Strategy - EXC 2050/1 - Project ID 390696704 - Cluster of Excellence "Centre for Tactile Internet with Human-in-the-Loop" (CeTI) of Technische Universität Dresden.
+
+<p align="center">
+  <a href="https://ceti.one/"><img src="https://bigraphs.org/img/logos/CeTI_Logo_and_Wordmark.png" width="100" alt="CeTI Logo"></a>
+  <br/>
+  <a href="https://tu-dresden.de/ing/informatik/smt/st/"><img src="https://bigraphs.org/img/logos/st-logo.png" width="60" alt="ST Logo"></a>
+</p>
 
 ----
-
-
 
 *Thank you for your interest in the Bigraph Toolkit Suite. We hope you find our tools, frameworks and libraries valuable!*

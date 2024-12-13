@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-Bigraph Toolkit Suite constitutes very versatile, extensible and comprehensive open-source software solutions <br> designed for the manipulation and analysis of bigraphs.
+Bigraph Toolkit Suite constitutes very extensible and comprehensive open-source software solutions <br> designed for the manipulation and analysis of bigraphs.
 </p>
 
 
@@ -43,11 +43,23 @@ Explore the projects of Bigraph Toolkit Suite below:
 - **Type:** Spring-based Framework
 - **GitHub Repository**: [spring-data-cdo Repository](https://github.com/bigraph-toolkit-suite/spring-data-cdo)
 
-### GrGen.NET  and Bigraphs
+### GrGen.NET and Bigraphs
 
 - **Description**: BiGGer is a transformation tool and library that translates bigraphical models and rules to GrGen.NET-compatible files. It enables bigraph rewriting using GrGen.NET.
 - **Type:** Library, command-line tool
 - **GitHub Repository**: [bigraphs.grgen-bigraphs Repository](https://github.com/bigraph-toolkit-suite/bigraphs.grgen-bigraphs)
+
+### BDSL Grammar
+
+- **Description**: BDSL is a DSL to specify and simulate bigraphs.
+- **Type:** Grammar
+- **GitHub Repository**: [bigraphs.bdsl-core-elements Repository](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-core-elements)
+
+### BDSL Interpreter
+
+- **Description**: An extensible interpreter for BDSL scripts.
+- **Type:** Framework, CLI
+- **GitHub Repository**: [bigraphs.bdsl-interpreter-parent Repository](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-interpreter-parent)
 
 ### BigRed Core Model
 - **Description**: Big Red is a graphical development environment for bigraphs, and this project contains only the core bigraph model of Big Red.

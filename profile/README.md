@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.bigraphs.org">
-    <img src="https://bigraphs.org/img/logos/bigraph-suite-logo.png" width="100" alt="General Bigraph Toolkit Suite Logo">
+    <img src="https://avatars.githubusercontent.com/u/130669805?s=200&v=4" width="100" alt="General Bigraph Toolkit Suite Logo">
   </a>
 </p>
 <p align="center">

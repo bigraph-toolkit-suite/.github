@@ -99,9 +99,9 @@ This software was developed at the Chair of Software Technology at Technische Un
 The development was funded by the German Research Foundation (DFG, Deutsche Forschungsgemeinschaft) as part of Germany's Excellence Strategy - EXC 2050/1 - Project ID 390696704 - Cluster of Excellence "Centre for Tactile Internet with Human-in-the-Loop" (CeTI) of Technische Universität Dresden.
 
 <p align="center">
-  <a href="https://ceti.one/"><img src="https://bigraphs.org/img/logos/CeTI_Logo_and_Wordmark.png" width="100" alt="CeTI Logo"></a>
+  <a href="https://ceti.one/"><img src="https://bigraphs.org/images/CeTI_MZ_RGB_Subline_horizontal-min-1-400x80.png" width="100" alt="CeTI Logo"></a>
   <br/>
-  <a href="https://tu-dresden.de/ing/informatik/smt/st/"><img src="https://bigraphs.org/img/logos/st-logo.png" width="60" alt="ST Logo"></a>
+  <a href="https://tu-dresden.de/ing/informatik/smt/st/"><img src="https://bigraphs.org/images/st-logo.png" width="60" alt="ST Logo"></a>
 </p>
 
 ----

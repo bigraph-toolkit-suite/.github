@@ -87,7 +87,8 @@ If you have any questions, or need help, please check the following resources fi
   - [bigraphs-by-examples.bigraph-vendingmachine-webservice Repository](https://github.com/bigraph-toolkit-suite/bigraphs-by-examples.bigraph-vendingmachine-webservice)
 - **BDSL (Bigraph Domain-specific Language)**
   - [BDSL User Manual](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-752170)
-- **Join the Discord Server**: https://discord.gg/E3j7RvrA 
+- **Join the Discord Server**: https://discord.gg/E3j7RvrA
+- **Discussions**: https://github.com/orgs/bigraph-toolkit-suite/discussions
 
 ## Licensing
 

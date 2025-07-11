@@ -85,10 +85,9 @@ If you have any questions, or need help, please check the following resources fi
 - **Bigraph Vending Machine Example**
   - [Bigraph Vending Machine Slides](https://d-nb.info/128701478X/34)
   - [bigraphs-by-examples.bigraph-vendingmachine-webservice Repository](https://github.com/bigraph-toolkit-suite/bigraphs-by-examples.bigraph-vendingmachine-webservice)
+- **Discussions**: https://github.com/orgs/bigraph-toolkit-suite/discussions
 - **BDSL (Bigraph Domain-specific Language)**
   - [BDSL User Manual](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-752170)
-- **Join the Discord Server**: https://discord.gg/E3j7RvrA
-- **Discussions**: https://github.com/orgs/bigraph-toolkit-suite/discussions
 
 ## Licensing
 

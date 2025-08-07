@@ -81,13 +81,19 @@ If you have any questions, or need help, please check the following resources fi
 
 - **Project Template for Bigraph Framework**
   - The project skeleton for using Bigraph Framework provides a quick introduction on how to setup and configure a Maven project. It shows how to create bigraphs and bigraphical reactive systems, and how to perform matching and rewriting.
-  - [Project-Skeleton-for-Bigraph-Framework Repository](https://github.com/bigraph-toolkit-suite/Project-Skeleton-for-Bigraph-Framework)
-- **Bigraph Vending Machine Example**
-  - [Bigraph Vending Machine Slides](https://d-nb.info/128701478X/34)
-  - [bigraphs-by-examples.bigraph-vendingmachine-webservice Repository](https://github.com/bigraph-toolkit-suite/bigraphs-by-examples.bigraph-vendingmachine-webservice)
-- **Discussions**: https://github.com/orgs/bigraph-toolkit-suite/discussions
+  - [Starter Project Template](https://github.com/bigraph-toolkit-suite/Project-Skeleton-for-Bigraph-Framework)
+- **Bigraph Vending Machine Example** (Object-Oriented+Bigraphs+REST)
+  - [Slides](https://d-nb.info/128701478X/34)
+  - [Demo App](https://github.com/bigraph-toolkit-suite/bigraphs-by-examples.bigraph-vendingmachine-webservice)
+- **BiGGer** (Bigraph Simulation):
+  - [Tool](https://github.com/bigraph-toolkit-suite/bigraphs.grgen-bigraphs)
+  - [Slides](https://doi.org/10.25368/2025.146)
+  - [Benchmark](https://github.com/bigraph-toolkit-suite/BiggerBenchmarkSolution)
 - **BDSL (Bigraph Domain-specific Language)**
   - [BDSL User Manual](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-752170)
+- **Discussions**: 
+  - https://github.com/orgs/bigraph-toolkit-suite/discussions
+
 
 ## Licensing
 

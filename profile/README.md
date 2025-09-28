@@ -9,7 +9,7 @@
 Bigraph Toolkit Suite constitutes extensible and comprehensive open-source software solutions <br> designed for the manipulation and analysis of bigraphs.
 </p>
 
-
+![HiRSE Code Promo Badge](https://img.shields.io/badge/Promo-8db427?label=HiRSE&labelColor=005aa0&link=https%3A%2F%2Fgo.fzj.de%2FCodePromo) 
 
 # Bigraph Toolkit Suite
 

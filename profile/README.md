@@ -82,6 +82,8 @@ If you have any questions, or need help, please check the following resources fi
 - **Project Template for Bigraph Framework**
   - The project skeleton for using Bigraph Framework provides a quick introduction on how to setup and configure a Maven project. It shows how to create bigraphs and bigraphical reactive systems, and how to perform matching and rewriting.
   - [Starter Project Template](https://github.com/bigraph-toolkit-suite/Project-Skeleton-for-Bigraph-Framework)
+- **How to use Bigraphs for Cyber-physical Proofs**
+  - [Slides: Proof Everything Everywhere But Not All At Once: A Robotic Case Study](https://doi.org/10.25368/2025.369)
 - **Bigraph Vending Machine Example** (Object-Oriented+Bigraphs+REST)
   - [Slides](https://d-nb.info/128701478X/34)
   - [Demo App](https://github.com/bigraph-toolkit-suite/bigraphs-by-examples.bigraph-vendingmachine-webservice)

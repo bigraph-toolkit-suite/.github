@@ -15,8 +15,6 @@ Bigraph Toolkit Suite constitutes extensible and comprehensive open-source softw
 
 Welcome to Bigraph Toolkit Suite, a collection of tools, framework and libraries for working with bigraphs, bigraphical reactive systems and related technologies. 
 
-Explore the projects of Bigraph Toolkit Suite below:
-
 ## Repository Overview
 
 ### Bigraph Framework

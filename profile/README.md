@@ -6,63 +6,65 @@
   </a>
 </p>
 <p align="center">
-Bigraph Toolkit Suite constitutes extensible and comprehensive open-source software solutions <br> designed for the manipulation and analysis of bigraphs.
+Bigraph Toolkit Suite constitutes comprehensive open-source software solutions <br> designed for the manipulation and analysis of bigraphs.
 </p>
-
-[![HiRSE Code Promo Badge](https://img.shields.io/badge/Promo-8db427?label=HiRSE&labelColor=005aa0&link=https%3A%2F%2Fgo.fzj.de%2FCodePromo)](https://go.fzj.de/CodePromo) 
 
 # Bigraph Toolkit Suite
 
 Welcome to Bigraph Toolkit Suite, a collection of tools, framework and libraries for working with bigraphs, bigraphical reactive systems and related technologies. 
 
-## Repository Overview
-
 ### Bigraph Framework
 
 - **Description**: A framework written in Java for the creation and simulation of bigraphs. It contains converters, basic means for visualization, and file-based persistence. A basic model checker for bigraphical reactive systems is also included.
 - **Type:** Framework
-- **GitHub Repository**: [bigraphs.bigraph-framework Repository](https://github.com/bigraph-toolkit-suite/bigraphs.bigraph-framework)
+- **Repository**: [bigraphs.bigraph-framework](https://github.com/bigraph-toolkit-suite/bigraphs.bigraph-framework)
 
 ### Bigraph Ecore Metamodel
 
 - **Description**: This project serves as a reference implementation of an abstract syntax specification for bigraphs.
 - **Type:** Specification
-- **GitHub Repository**: [bigraphs.bigraph-ecore-metamodel Repository](https://github.com/bigraph-toolkit-suite/bigraphs.bigraph-ecore-metamodel)
-
-### Bigellor
-
-- **Description**: Bigellor is a web-based editor for the visual modeling of bigraphs.
-- **Type:** IDE
-- **GitHub Repository**: [bigraphs.ide.bigellor Repository](https://github.com/bigraph-toolkit-suite/bigraphs.ide.bigellor)
+- **Repository**: [bigraphs.bigraph-ecore-metamodel](https://github.com/bigraph-toolkit-suite/bigraphs.bigraph-ecore-metamodel)
 
 ### Spring Data CDO
 
 - **Description**: Spring repository support for Connected Data Objects (CDO), a distributed shared model of Eclipse EMF.
 - **Type:** Spring-based Framework
-- **GitHub Repository**: [spring-data-cdo Repository](https://github.com/bigraph-toolkit-suite/spring-data-cdo)
+- **Repository**: [spring-data-cdo](https://github.com/bigraph-toolkit-suite/spring-data-cdo)
 
 ### GrGen.NET and Bigraphs
 
 - **Description**: BiGGer is a transformation tool and library that translates bigraphical models and rules to GrGen.NET-compatible files. It enables bigraph rewriting using GrGen.NET.
 - **Type:** Library, command-line tool
-- **GitHub Repository**: [bigraphs.grgen-bigraphs Repository](https://github.com/bigraph-toolkit-suite/bigraphs.grgen-bigraphs)
+- **Repository**: [bigraphs.grgen-bigraphs](https://github.com/bigraph-toolkit-suite/bigraphs.grgen-bigraphs)
 
 ### BDSL Grammar
 
 - **Description**: BDSL is a DSL to specify and simulate bigraphs.
 - **Type:** Grammar
-- **GitHub Repository**: [bigraphs.bdsl-core-elements Repository](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-core-elements)
+- **Repository**: [bigraphs.bdsl-core-elements](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-core-elements)
 
 ### BDSL Interpreter
 
 - **Description**: An extensible interpreter for BDSL scripts.
 - **Type:** Framework, CLI
-- **GitHub Repository**: [bigraphs.bdsl-interpreter-parent Repository](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-interpreter-parent)
+- **Repository**: [bigraphs.bdsl-interpreter-parent](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-interpreter-parent)
 
+### Bigraphs Testing Utilities
+
+- **Description**: A library for the Bigraph Toolkit Suite ecosystem that provides reusable testing utilities to support visualization, validation, and automated testing of bigraph-based models, tools, and frameworks.
+- **Type:** Testing Library  
+- **Repository**: [bigraphs.bigraphs-testing](https://github.com/bigraph-toolkit-suite/bigraphs.bigraphs-testing)
+
+### Bigellor
+
+- **Description**: Bigellor is a prototypical, web-based editor for the visual modeling of bigraphs.
+- **Type:** IDE
+- **Repository**: [bigraphs.ide.bigellor](https://github.com/bigraph-toolkit-suite/bigraphs.ide.bigellor)
+  
 ### BigRed Core Model
 - **Description**: Big Red is a graphical development environment for bigraphs, and this project contains only the core bigraph model of Big Red.
 - **Type:** Library
-- **GitHub Repository**: [bigraphs.bigred-core Repository](https://github.com/bigraph-toolkit-suite/bigraphs.bigred-core)
+- **Repository**: [bigraphs.bigred-core](https://github.com/bigraph-toolkit-suite/bigraphs.bigred-core)
 
 
 ## Contribute
@@ -82,6 +84,8 @@ If you have any questions, or need help, please check the following resources fi
   - [Starter Project Template](https://github.com/bigraph-toolkit-suite/Project-Skeleton-for-Bigraph-Framework)
 - **How to use Bigraphs for Cyber-physical Proofs**
   - [Slides: Proof Everything Everywhere But Not All At Once: A Robotic Case Study](https://doi.org/10.25368/2025.369)
+- **Streaming Attributes Tutorial (ROS2 + CDO)**
+  - [Tutorial](https://bigraphs.org/software/bigraph-framework/tutorials/category/attribute-streams-ros2--cdo)
 - **Bigraph Vending Machine Example** (Object-Oriented+Bigraphs+REST)
   - [Slides](https://d-nb.info/128701478X/34)
   - [Demo App](https://github.com/bigraph-toolkit-suite/bigraphs-by-examples.bigraph-vendingmachine-webservice)
@@ -107,8 +111,13 @@ The development was funded by the German Research Foundation (DFG, Deutsche Fors
 
 <p align="center">
   <a href="https://ceti.one/"><img src="https://bigraphs.org/images/CeTI_MZ_RGB_Subline_horizontal-min-1-400x80.png" width="100" alt="CeTI Logo"></a>
-  <br/>
-  <a href="https://tu-dresden.de/ing/informatik/smt/st/"><img src="https://bigraphs.org/images/st-logo.png" width="60" alt="ST Logo"></a>
+  &nbsp;&nbsp;
+  <a href="https://tu-dresden.de/ing/informatik/smt/st/"><img src="https://bigraphs.org/images/st-logo.png" width="40" alt="ST Logo"></a>
+  &nbsp;&nbsp;
+  <a href="https://go.fzj.de/CodePromo">
+    <img src="https://img.shields.io/badge/Promo-8db427?label=HiRSE&labelColor=005aa0"
+         alt="HiRSE Code Promo Badge">
+  </a>
 </p>
 
 ----

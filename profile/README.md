@@ -6,12 +6,10 @@
   </a>
 </p>
 <p align="center">
-Bigraph Toolkit Suite constitutes comprehensive open-source software solutions <br> designed for the manipulation and analysis of bigraphs.
+The Bigraph Toolkit Suite constitutes comprehensive open-source software solutions <br> designed for the manipulation and analysis of bigraphs, bigraphical reactive systems and related technologies.
 </p>
 
 # Bigraph Toolkit Suite
-
-Welcome to Bigraph Toolkit Suite, a collection of tools, framework and libraries for working with bigraphs, bigraphical reactive systems and related technologies. 
 
 ### Bigraph Framework
 

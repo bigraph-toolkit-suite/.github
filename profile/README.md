@@ -39,7 +39,7 @@ The Bigraph Toolkit Suite constitutes comprehensive open-source software solutio
 
 - **Description**: BDSL is a DSL to specify and simulate bigraphs.
 - **Type:** Grammar
-- **Repository**: [bigraphs.bdsl-core-elements](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-core-elements)
+- **Repository**: [bigraphs.bdsl-grammar](https://github.com/bigraph-toolkit-suite/bigraphs.bdsl-grammar)
 
 ### BDSL Interpreter
 

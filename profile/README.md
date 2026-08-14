@@ -87,6 +87,9 @@ If you have any questions, or need help, please check the following resources fi
 - **Bigraph Vending Machine Example** (Object-Oriented+Bigraphs+REST)
   - [Slides](https://d-nb.info/128701478X/34)
   - [Demo App](https://github.com/bigraph-toolkit-suite/bigraphs-by-examples.bigraph-vendingmachine-webservice)
+- **Bigraph Modelling Exercises**
+  - [Starter Project Templates](https://github.com/bigraph-toolkit-suite/bigraphs.bigraph-framework-exercises) 
+  - [Tutorial Page](https://bigraphs.org/software/bigraph-framework/tutorials/exercises/) 
 - **BiGGer** (Bigraph Simulation):
   - [Tool](https://github.com/bigraph-toolkit-suite/bigraphs.grgen-bigraphs)
   - [Slides](https://doi.org/10.25368/2025.146)
